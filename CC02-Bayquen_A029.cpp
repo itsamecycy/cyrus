@@ -36,11 +36,11 @@ int main() {
         system("cls");
         cout << "===== Student Info Menu =====\n";
         cout << "[1] Input and Save Student Data\n";
-        cout << "[2] View Saved File\n";
-        cout << "[3] Delete Saved File\n";
-        cout << "[4] Rename Saved File\n";
-        cout << "[5] Edit Saved File\n"; // <-- Added option
-        cout << "[6] Exit\n";
+        cout << "[2] View a Saved File\n";
+        cout << "[3] Delete a Saved File\n";
+        cout << "[4] Rename a Saved File\n";
+        cout << "[5] Edit a Saved File\n";
+        cout << "[6] Exit the program\n";
         cout << "Enter your choice: ";
         cin >> choice;
         cin.ignore();
